@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-namespace Shopping.Models
+namespace Shopping.Models;
 public class ChangePasswordViewModel
 {
     [DataType(DataType.Password)]
